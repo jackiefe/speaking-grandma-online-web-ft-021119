@@ -10,7 +10,7 @@ def speak_to_grandma (phrase)
     "HUH?! SPEAK UP, SONNY!"
   end 
 end
-binding.pry 
+#binding.pry 
 
 # Write a speak_to_grandma method.
 
